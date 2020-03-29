@@ -40,6 +40,28 @@ date,county,state,fips,cases,deaths
 ...
 ```
 
+### State Shelter-in-place Data
+
+https://www.cnn.com/2020/03/23/us/coronavirus-which-states-stay-at-home-order-trnd/index.html
+
+```
+date,state
+2020-03-19,California
+2020-03-21,Illinois
+2020-03-21,New Jersey
+```
+
+### State Population and Density
+
+https://worldpopulationreview.com/states/
+
+```
+State,Pop,density
+Alabama,4908621,96.9221
+Alaska,734002,1.2863
+Arizona,7378494,64.9550
+```
+
 In some cases, the geographies where cases are reported do not map to standard county boundaries. See the list of [geographic exceptions](#geographic-exceptions) for more detail on these.
 
 ## Methodology and Definitions
